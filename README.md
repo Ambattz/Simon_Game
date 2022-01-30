@@ -10,3 +10,7 @@ The excitement builds as you try to keep pace with the light sequences as they g
 
 ## Know the Moves to Win
 Get ready to watch, remember, repeat! It's fast-paced play, with lights and sounds that challenge you with every sequence. Experience the fun as you repeat the patterns and advance to higher levels. Keep track of your level as you challenge friends or try to beat your own high level!
+
+# Screenshots
+![2022-01-30 (1)](https://user-images.githubusercontent.com/69767685/151709087-b8798fa1-c6f5-45dd-a7d9-28f3511ea13c.png)
+
